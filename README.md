@@ -1,10 +1,3 @@
-# Simple-CRUD-CI3
-CRUD Sederhana menggunakan CodeIgniter 3 dan Bootstrap
+# Project Int.Res (Sistem Informasi Pengetahuan) Sederhana
 
-<h2>Instalasi</h2>
-1. Clone atau Download repo ini.
-2. Buat database dengan nama "ci3_master", lalu import database yang ada pada folder "db".
-3. Buka halaman awal pada "host/[folder_anda]/home/lihatdata".
-
-<h2>Latihan</h2>
-1. Implementasikan pada Master Project Inventory
+Aplikasi berbasis web ini digunakan untuk mendokumentasikan solusi maupun informasi dari anggota member lab Int.Sys & Game Tech UDINUS. Konten pembahasan yang ada didalam web ini berupa informasi seputar pengembangan perangkat lunak (game dan aplikasi) serta riset/penelitian ilmiah. Didalam sajiannya, website ini di desain seperti forum, sehingga masing-masing member dapat berdiskusi satu sama lain, dan saling memberikan solusi/informasi.
