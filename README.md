@@ -12,3 +12,4 @@ login required (sampel akun : username -> anarqi , password -> 123)
 <h3>3. Admin</h3>
 login required (sampel akun : username -> galang , password -> galang)
 <br>otorisasi -> melihat,memberi feedback,posting,management konten semua user, managemen member, privacy setting
+#kaos
